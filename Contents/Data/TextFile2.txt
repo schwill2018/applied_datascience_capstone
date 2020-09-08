@@ -1,0 +1,1 @@
+https://geoenrich.arcgis.com/arcgis/rest/services/World/geoenrichmentserver/GeoEnrichment/enrich?studyAreas=[{"geometry":{"x":-73.9712,"y":40.7831}}]&studyAreasOptions={"areaType":"RingBuffer","bufferUnits":"esriMeters","bufferRadii":[500]}&dataCollections=["KeyGlobalFacts", "KeyUSFacts","KeyCANFacts"]

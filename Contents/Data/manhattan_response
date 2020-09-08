@@ -1,0 +1,1 @@
+{"results":[{"paramName":"GeoEnrichmentResult","dataType":"GeoEnrichmentResult","value":{"version":"2.0","FeatureSet":[]}}],"error":{"code":10020007,"message":"Parameter 'studyAreas' is invalid.","details":[],"causes":[{"code":10020049,"message":"Invalid attribute 'StudyAreas'.","details":[]}]},"messages":[]}
